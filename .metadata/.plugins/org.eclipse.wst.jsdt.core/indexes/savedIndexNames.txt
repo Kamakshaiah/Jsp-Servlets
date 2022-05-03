@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+/media/mk/18BE39A9BE398074/work/eclipse/web-devel/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1578217108.index
+1633283929.index
+453708981.index
+1686274598.index
+108878086.index
+322555362.index
+4159603041.index

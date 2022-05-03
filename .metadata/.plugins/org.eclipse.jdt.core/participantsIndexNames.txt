@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+/media/mk/18BE39A9BE398074/work/eclipse/web-devel/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/4159603041.index
+/helloworld/src/main/java
+/media/mk/18BE39A9BE398074/work/eclipse/web-devel/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/4025685000.index
+/HelloWorld/src/main/java
